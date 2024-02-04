@@ -18,7 +18,8 @@
 }
 
 .image-sizing{
-   size:10%;
+   width:50px;
+    height:10px:
 }
 .back-to-top {
     position: fixed;
