@@ -699,4 +699,22 @@ h2{
     border-radius: 10px;
     cursor: pointer;
 }
+.responsive-photo {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    @media (min-width: 600px) {
+      .responsive-photo {
+        max-width: 50%;
+      }
+    }
+
+    @media (min-width: 900px) {
+      .responsive-photo {
+        max-width: 33.33%;
+      }
+    }
     
