@@ -708,13 +708,18 @@ h2{
 
     @media (min-width: 600px) {
       .responsive-photo {
-        max-width: 50%;
+        max-width: 70%;
       }
     }
 
     @media (min-width: 900px) {
       .responsive-photo {
-        max-width: 33.33%;
+        max-width: 60%;
       }
     }
-    
+
+    @media (min-width: 1200px) {
+      .responsive-photo {
+        max-width: 50%;
+      }
+    }
