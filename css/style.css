@@ -16,11 +16,9 @@
 .fw-semi-bold {
     font-weight: 700 !important;
 }
-.img-sizing1{
-    width:50px;
-}
+
 .image-sizing{
-    width: 10em;
+    width: 50em;
 }
 .back-to-top {
     position: fixed;
