@@ -413,7 +413,7 @@
 .caption {
       font-size: 10px; /* Adjusted font size */
       text-align: center;
-    color:white;
+        color:#FFFFFF;
     }
 
     @media (min-width: 600px) {
